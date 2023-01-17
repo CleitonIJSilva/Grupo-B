@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+#rodape{
+        width: 100%;
+        height:auto;
+        background-color: red;
+        display: flex;
+        justify-content: center;
+        margin: center;
+}
+
+.caixa1{
+    width: 10%;
+    height: 100px;
+    margin: 1%;
+    background-color: aqua;
+
+}
+
+.caixa2{  
+    width: 10%;
+    height: 100px;
+    margin: 1%;
+    background-color:gold
+}
+
+.caixa3{
+    width: 10%;
+    height: 100px;
+    margin: 1%;
+    background-color: blue;
+}
